@@ -6,6 +6,7 @@ import { dummyData } from "../data/dummyData";
 import { timeAgo } from "../utility";
 
 interface ForumCardProps {
+  key:number;
   id: string | number;
   title: string;
   sector: string;
