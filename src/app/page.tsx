@@ -1,7 +1,5 @@
 "use client";
 
-import Dashboard from "./components/Dashboard"; // Adjust the path as necessary
-
 // src/app/page.tsx
 import React, { useState } from "react";
 import Sidebar from "./components/Sidebar";
