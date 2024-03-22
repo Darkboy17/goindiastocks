@@ -17,7 +17,7 @@ interface ForumCardProps {
   noOfComments: number;
 }
 
-export default function ForumCard({
+export default function ForumCard({key,
   id,
   title,
   sector,
