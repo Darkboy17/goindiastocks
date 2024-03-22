@@ -1,10 +1,10 @@
 ## Getting Started
 
-First, clone this repository or download it to our local machine
+1) First, clone this repository or download it to our local machine
 
-Second, switch to the directory in your terminal
+2) Second, switch to the directory in your terminal
 
-Third, runn the development server:
+3) Third, run the development server:
 
 ```bash
 npm run dev
