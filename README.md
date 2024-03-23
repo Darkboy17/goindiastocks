@@ -15,3 +15,5 @@ pnpm dev
 # or
 bun dev
 ```
+
+4) Now visit http://localhost:3000/ on your browser and check out the app.
