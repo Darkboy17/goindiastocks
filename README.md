@@ -1,6 +1,6 @@
 ## Getting Started
 
-1) First, clone this repository or download it to our local machine
+1) First, clone this repository or download it to your local machine
 
 2) Second, switch to the directory in your terminal
 
